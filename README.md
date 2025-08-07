@@ -51,7 +51,8 @@ If you’d like the Tableau workbook file (`.twbx`), please reach out.
 ## 🌐 Live Preview (Carrd)
 
 You can preview a hosted version of this dashboard at:  
-👉 [Your Carrd Link Here](https://bikesales.carrd.co)
+👉 [Tableau](https://public.tableau.com/views/Portfolio_17545771211020/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+👉 [Carrd](https://tsvetakamenovabikesales.carrd.co)
 
 ---
 
