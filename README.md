@@ -51,7 +51,7 @@ If you’d like the Tableau workbook file (`.twbx`), please reach out.
 ## 🌐 Live Preview (Carrd)
 
 You can preview a hosted version of this dashboard at:  
-👉 [Your Carrd Link Here](https://your-carrd-url.carrd.co)
+👉 [Your Carrd Link Here](https://bikesales.carrd.co)
 
 ---
 
