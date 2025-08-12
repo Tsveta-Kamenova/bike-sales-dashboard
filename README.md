@@ -54,8 +54,3 @@ You can preview a hosted version of this dashboard at:
 👉 [Tableau](https://public.tableau.com/views/Portfolio_17545771211020/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 👉 [Carrd](https://tsvetakamenovabikesales.carrd.co)
 
----
-
-## 📄 License
-
-MIT License — feel free to use, adapt, and share.
